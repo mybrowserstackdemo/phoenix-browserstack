@@ -15,7 +15,7 @@ Elixir Phoenix Browserstack - peace of mind from development to testing to produ
 1. convert all Browserstack examples to Github Workflow Actions
 2. web app is Phoenix LiveView which does real time code gen using guided machine learning, i.e. menu tree wrapping OpenAI
 3. build commercial open source web application in Elixir Phoenix which uses Websockets in a local BEAM Erlang VM or runs like WhatsApp planet scale
-4. codegen brings a Rails style opinioted spin on existing Browerstack Github and docs etc
+4. codegen brings a Rails style spin on existing Browerstack Github and docs etc
 
 rinse, repeat, profit
 
