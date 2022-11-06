@@ -4,7 +4,7 @@ Elixir Phoenix Browserstack - peace of mind from development to testing to produ
 
 
 1. Github
-2. Viscode live edit
+2. Microsoft real time websockets VSCode live edit
 3. Github Workflow Actions
 4. Browserstack Testing
 5. Github Builds
