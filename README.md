@@ -19,3 +19,6 @@ Elixir Phoenix Browserstack - peace of mind from development to testing to produ
 
 rinse, repeat, profit
 
+## Step 1
+
+1. Collect Browserstack+VSCode+Github is awesome link file 😍
