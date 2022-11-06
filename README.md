@@ -17,5 +17,5 @@ Elixir Phoenix Browserstack - peace of mind from development to testing to produ
 3. build commercial open source web application in Elixir Phoenix which uses Websockets in a local BEAM Erlang VM or runs like WhatsApp planet scale
 4. codegen brings a Rails style opinioted spin on existing Browerstack Github and docs etc
 
-rince, repeat, profit
+rinse, repeat, profit
 
