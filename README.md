@@ -22,3 +22,19 @@ rinse, repeat, profit
 ## Step 1
 
 1. Collect Browserstack+VSCode+Github is awesome link file 😍
+
+## Research
+
+### Live Code
+```2. Microsoft real time websockets VSCode live edit```
+* Vscode Live Share
+* https://code.visualstudio.com/learn/collaboration/live-share
+* https://vscode.dev/
+* https://github.com/microsoft/vscode-webview-ui-toolkit
+* https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions
+* https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/
+* https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub&WT.mc_id=devcloud-18509-cxa
+
+### Browserstack
+* Browser API 
+
